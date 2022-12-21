@@ -85,7 +85,7 @@ plotly==5.11.0
 pmdarima==1.8.5
 prometheus-client==0.13.1
 prompt-toolkit==3.0.28
-protobuf==3.19.4
+protobuf==3.19.5
 psutil==5.9.0
 pure-eval==0.2.2
 pyasn1==0.4.8
