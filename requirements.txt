@@ -138,7 +138,6 @@ wcwidth==0.2.5
 webencodings==0.5.1
 Werkzeug==2.2.2
 widgetsnbextension==3.6.1
-wrapt==1.14.1
 xgboost==1.6.1
 xlrd==2.0.1
 zipp==3.7.0
